@@ -2,6 +2,9 @@
 
 **This project focuses on analyzing and visualizing New York City vehicle collision data to uncover patterns, identify risk factors, and enhance the reader's understanding of traffic safety dynamics within the city..**
 
+- Due to data limitation on GitHub, datasets and cleaned data will be uploaded in GoogleDrive:
+  https://drive.google.com/drive/folders/1azsNlxqe9erNFoZtP9i1Gi_pPMTqBU9M?usp=sharing
+
 Part 1: Data Overview & Exploratory Visualizations
 
 - Examine the distribution of key variables such as crash time, location, and contributing factors.
